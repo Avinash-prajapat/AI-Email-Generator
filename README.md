@@ -38,13 +38,6 @@ AutoCompose is an intelligent email agent built for speed, multilingual fluency,
 <img src="https://github.com/user-attachments/assets/446c877e-57b4-4f85-b40a-51c7b86fd7a7" alt="Screenshot_20250408_183942" width="250"/>
 <img src="https://github.com/user-attachments/assets/07af1e86-3961-4ce4-bec0-487748bb6de2" alt="Screenshot_20250408_183957" width="250"/>
 
-## 🗄️Backend info
-- [**Dev.to post**](https://dev.to/anuragkanojiya/how-to-use-langgraph-within-a-fastapi-backend-amm)
-
-## 🚀Demo
-- [**Youtube Link**](https://www.youtube.com/watch?v=JNPY4eGm26U&t=81s&ab_channel=AnuragKanojiya)
-
-## 🧰 Tech Stack
 
 ### 📱 Android App
 - **Language**: Kotlin
@@ -84,18 +77,41 @@ Backend (Python - FastAPI)
  └── Deployed via Railway
 ```
 
-## 📦 Installation & Setup
-
-1. Download the app directly from apk: [apk.zip](https://github.com/user-attachments/files/19651040/apk.zip)
-2. Clone the Android project.
-- Open in Android Studio.
-- Run on emulator or device.
-
 ### 📧 Why AutoCompose?
 ✨ Say goodbye to writer’s block, especially in multilingual scenarios.
 💡 Whether you're a student, entrepreneur, or professional — AutoCompose empowers you to communicate effectively across cultures and tones with AI at your fingertips.
 
-## 🧑‍💻 Author
-Anurag — Android app Developer | AI Enthusiast | Spring Boot
+## Author
 
-• [Twitter](https://x.com/AnuKanojiya829) • [LinkedIn](https://linkedin.com/in/anurag-kanojiya-101312286) • [GitHub](https://github.com/anuragkanojiya1)
+- **Name**: Avinash Kumar
+- [Email](avinashprajapati9199@gmail.com)
+- [GitHub](https://github.com/Avinash-prajapat)
+- [Linkedin](https://www.linkedin.com/in/avinash-prajapati-244374253/)
+
+## License
+
+This project is licensed under the MIT License.
+
+MIT License
+
+Copyright (c) 2025 Avinash Kumar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
