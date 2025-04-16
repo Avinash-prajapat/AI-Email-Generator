@@ -61,22 +61,6 @@ AutoCompose is an intelligent email agent built for speed, multilingual fluency,
 
 ---
 
-## 🏗 Architecture Overview
-```
-Frontend (Android - Kotlin)
- ├── MVVM Structure
- │   ├── ViewModel
- │   ├── Repository
- │   └── UI(Jetpack Compose)
- ├── RoomDB
- └── Speech services: Transcribes user's voice input
-
-Backend (Python - FastAPI)
- ├── LangGraph for flow orchestration
- ├── Gemini + Groq models (Gemini, Mistral, Llama)
- └── Deployed via Railway
-```
-
 ### 📧 Why AutoCompose?
 ✨ Say goodbye to writer’s block, especially in multilingual scenarios.
 💡 Whether you're a student, entrepreneur, or professional — AutoCompose empowers you to communicate effectively across cultures and tones with AI at your fingertips.
